@@ -1,0 +1,4 @@
+mynr
+====
+
+Compare model specifications.
